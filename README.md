@@ -91,7 +91,7 @@ The dataset contains product listing and review data scraped from Amazon, includ
 ---
 
 ## 🧩 Tools Used
-- Excel / Power BI
+- Excel / 
 - Power Query (for data cleaning)
 - Pivot Tables & Charts
 
