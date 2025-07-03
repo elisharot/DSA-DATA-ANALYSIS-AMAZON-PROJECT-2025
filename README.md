@@ -8,18 +8,19 @@ The dataset contains product listing and review data scraped from Amazon, includ
 - `actual_price`, `discounted_price`, `discount_percentage`
 - `rating`, `rating_count`
 - `review_content`, `user_name`, `user_id`
- ##Objective:
+  
+ ##  Objective:
      The main goal of the Amazon Product Review Analysis project is to help sellers and decision-makers on the Amazon platform gain data-driven insights into:
 
-           -Product performance: Understand how products are rated and reviewed.
+  -   Product performance: Understand how products are rated and reviewed.
+        
+  -  Customer engagement: Measure how users interact through reviews.
 
-            -Customer engagement: Measure how users interact through reviews.
+  -  Pricing strategies: Identify trends in discounts and actual vs. discounted prices.
 
-               -Pricing strategies: Identify trends in discounts and actual vs. discounted prices.
+  - Revenue opportunities: Estimate potential earnings based on pricing and review volume.
 
-                -Revenue opportunities: Estimate potential earnings based on pricing and review volume.
-
-                 -These insights enable better marketing strategies, inventory planning, and product improvements.
+  - These insights enable better marketing strategies, inventory planning, and product improvements.
 
 
 ##  Key Business Questions Answered
