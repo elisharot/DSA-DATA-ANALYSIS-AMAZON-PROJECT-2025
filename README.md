@@ -147,3 +147,14 @@ Products priced under ₹500 dominate in volume but may yield lower profit per u
 Categories with the highest potential revenue (actual price × rating count) should get priority in ad spend, inventory restocking, and regional targeting.
 
 
+
+
+
+
+
+
+
+
+
+
+
