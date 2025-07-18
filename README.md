@@ -105,9 +105,11 @@ The dataset contains product listing and review data scraped from Amazon, includ
 ## 🧩 Tools Used
 - Excel / 
 - Power Query (for data cleaning)
-- Pivot Tables & Charts
+- Pivot Tables, Charts and slicers
 
----
+ ## Data Visualization
+ <img width="1752" height="869" alt="image" src="https://github.com/user-attachments/assets/cdeb037b-a636-47e7-8d73-1733bbb87309" />
+
 
 ## 🔚 Conclusion
 This repository demonstrates how product pricing, discounting, and customer sentiment (via reviews and ratings) interact across categories. Insights can help inform pricing strategies and identify top-performing product types.
